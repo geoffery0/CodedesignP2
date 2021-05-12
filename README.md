@@ -11,7 +11,7 @@ Inside you will find the beginnings of a ground-breaking coffee brewery. Unfortu
 
 You'll start by adding one more feature to it to get it into a right mess, then we'll fix it up good.
 
-There's also an example before and after refactoring placed in separate folders.
+There's also an example before and after refactoring placed in separate folders (the House Template example presented in class).
 
 ## Getting started
 
