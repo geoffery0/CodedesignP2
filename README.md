@@ -15,9 +15,17 @@ There's also an example before and after refactoring placed in separate folders 
 
 ## Getting started
 
-1. Fork this repo.
-2. Clone your fork to make a local copy.
-2. Build it on your favorite IDE.
+1. Duplicate this repo so you can have this starter code. Don't clone it because you won't push to this repo and don't fork it because you won't be able to make your fork private.
+   * There are different ways to do duplicate this repo, and perhaps the simplest one is to download this code using GH download ZIP button in this page.
+   * Then, you unzip it locally in a new folder that will represent your new repo.
+   * To make this new folder a git folder, run *git init* in that folder.
+   * Go to github.com and create a new repository at GitHub. Mark the repository as private.
+   * Follow GH instructions to link your local git repo to this newly created GH repo.
+      * git remote add origin https://github.com/<your_user>/<your_new_repo>.git
+      * git branch -M main
+      * git push -u origin main
+   * Add me to your GH repo so I can access your solution later. My GH username: bcdasilv
+2. Start working on the code (move to next section).
 
 ## Making the situation worse...
 
